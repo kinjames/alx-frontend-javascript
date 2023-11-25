@@ -11,4 +11,5 @@ Arrow functions and function parameters default to them. <br>
 Rest and spread function parameters. <br>
 String templating in ES6. <br>
 Object creation and their properties in ES6. <br>
+
 Iterators and for-of loops. <br>
